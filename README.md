@@ -1,5 +1,5 @@
 # DPBAug
-The official implementation of "Disentangled Pseudo-bag Augmentation for Whole Slide Image Multiple Instance Learning"
+The official implementation of "Disentangled Pseudo-bag Augmentation for Whole Slide Image Multiple Instance Learning".
 
 ## training & validation & testing
 #### step1: Pre-train
